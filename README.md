@@ -8,9 +8,4 @@ Hi :wave:, I'm Nuno Subtil
       <li>:mailbox: How to reach me: <a href="https://www.linkedin.com/in/nunosubtil/">linkedin.com/in/nunosubtil/</a></li>
     </ul>
   </div>
-  <div style="flex: 1; padding: 10px; display: flex; justify-content: center; align-items: center;">
-    <a>
-      <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunosubtil&layout=compact&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" />
-    </a>
-  </div>
 </div>
